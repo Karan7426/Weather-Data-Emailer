@@ -19,13 +19,15 @@ Backend: PHP (CodeIgniter)
 APIs: Weather API (to fetch weather data)
 Database: Mysql
 
-## Setup Instructions
 
-### Prerequisites
+## Requirements
 
-- XAMPP  local server environment with PHP and MySQL
+- PHP version 7.4 or higher
+- XAMPP local server environment with PHP and MySQL
 - Composer (for managing dependencies)
 
+
+## Setup Instructions
 
 
 ### Step-by-Step Setup
