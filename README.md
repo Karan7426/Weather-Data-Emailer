@@ -14,10 +14,10 @@ This project is a weather report application built using CodeIgniter 4. It allow
 
 ## Technologies Used
 
-Frontend: HTML5, CSS3 (Bootstrap, Font Awesome),JavaScript (jQuery)
-Backend: PHP (CodeIgniter)
-APIs: Weather API (to fetch weather data)
-Database: Mysql
+- Frontend: HTML5, CSS3 (Bootstrap, Font Awesome),JavaScript (jQuery)
+- Backend: PHP (CodeIgniter)
+- APIs: Weather API (to fetch weather data)
+- Database: Mysql
 
 
 ## Requirements
